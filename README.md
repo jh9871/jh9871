@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Introduce
-
 <div align="center">
   <p><h2>Hi there! I'm Joon.</h2></p>
   <p>I'm a new backEnd developer who studies and develops every day.🔥</p>
